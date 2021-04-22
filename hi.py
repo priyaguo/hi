@@ -1,4 +1,5 @@
 print('嗨嗨嗨！')
+print('Wellcome to Python World')
 name = input('請輸入姓名:')
 high = input('請輸入身高：')
 weight = input('請輸入體重:')
